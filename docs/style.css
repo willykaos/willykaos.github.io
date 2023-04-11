@@ -52,14 +52,6 @@
     font-family: sans-serif;
     }
   
-  .content h2 {
-    font-size: 30px;
-    text-transform: uppercase;
-    margin-left: 180px;
-    margin-bottom: 10px;
-  
-  }
-  
   .content p {
     font-size: 18px;
     text-align: justify;
@@ -72,29 +64,15 @@
     font-family: sans-serif;
     font-weight: bold;
   }
-
-  .content a {
-    font-size: 18px;
-    text-align: justify;
-    margin-left: 180px
+  .content a{
+    position: fixed;
+    margin-left: 180px;
   }
+
 
   .content img {
     width: 180px;
     margin-top: 10px;
     margin-left: 180px;
     border-radius: 50%;
-  }
-
-  button {
-    background: black;
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    display: block;
-    /* margin: 10px auto; */
-    float: left;
-    cursor: pointer;
-    margin-top: 10px;
-    margin-left: 10px
   }
