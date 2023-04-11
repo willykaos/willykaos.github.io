@@ -12,7 +12,7 @@
   }
   
   .sidebar {
-    width: 320px;
+    width: 150px;
     height: 100%;
     background: black;
     overflow: auto;
@@ -55,7 +55,7 @@
   .content h2 {
     font-size: 30px;
     text-transform: uppercase;
-    margin-left: 310px;
+    margin-left: 180px;
     margin-bottom: 10px;
   
   }
@@ -63,12 +63,12 @@
   .content p {
     font-size: 18px;
     text-align: justify;
-    margin-left: 320px
+    margin-left: 180px
   }
 
   .content ul li{
     font-size: 18px;
-    margin-left: 320px;
+    margin-left: 180px;
     font-family: sans-serif;
     font-weight: bold;
   }
@@ -76,13 +76,13 @@
   .content a {
     font-size: 18px;
     text-align: justify;
-    margin-left: 310px
+    margin-left: 180px
   }
 
   .content img {
     width: 180px;
     margin-top: 10px;
-    margin-left: 310px;
+    margin-left: 180px;
     border-radius: 50%;
   }
 
